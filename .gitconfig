@@ -1,0 +1,15 @@
+[user]
+        email = hackman.10@wright.edu
+        name = Jeremy Hackman
+[core]
+        editor = vim
+[help]
+        autocorrect = 20
+[commit]
+        template = /home/meme/.gitmessage.txt
+        email = hackman.10@wright.edu
+        name = Jeremy Hackman
+[core]
+        editor = vim
+[help]
+        autocorrect = 20
